@@ -71,21 +71,16 @@ img{
     display: flex;
     text-align: justify;
 }
-.estudios{
-    border: solid 3px rgb(0, 158, 243);
-    border-radius: 30px;
-    margin: 5%;
-    padding: 1%;
+.estudios {
     text-align: center;
-}
-.hobbies{
     border: solid 3px rgb(0, 158, 243);
     border-radius: 30px;
     margin: 5%;
-    padding: 1%;
-}
+    padding: 1%z
 
-.exp{
+}
+.info{
+    text-align: justify;
     border: solid 3px rgb(0, 158, 243);
     border-radius: 30px;
     margin: 5%;
