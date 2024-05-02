@@ -78,3 +78,16 @@ img{
     padding: 1%;
     text-align: center;
 }
+.hobbies{
+    border: solid 3px rgb(0, 158, 243);
+    border-radius: 30px;
+    margin: 5%;
+    padding: 1%;
+}
+
+.exp{
+    border: solid 3px rgb(0, 158, 243);
+    border-radius: 30px;
+    margin: 5%;
+    padding: 1%;
+}
