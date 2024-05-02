@@ -86,3 +86,9 @@ img{
     margin: 5%;
     padding: 1%;
 }
+.divboton {
+    text-align: center;
+}
+.boton {
+    background-color: rgb(0, 158, 243);
+}
