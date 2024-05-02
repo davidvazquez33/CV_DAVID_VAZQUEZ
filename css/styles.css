@@ -10,7 +10,10 @@
 .letrazul {
     color: rgb(0, 158, 243);
 }
-
+.maps{
+    width: 60%;
+    height: 50%;
+}
 html{
     font-size: 100px;
 }
@@ -46,12 +49,13 @@ a:hover{
     margin-top: -3%;
 }
 
-.jo{
+.yo{
     width: 100%;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
 }
+
 
 img{
     align-items: center;
@@ -66,4 +70,11 @@ img{
     padding: 1%;
     display: flex;
     text-align: justify;
+}
+.estudios{
+    border: solid 3px rgb(0, 158, 243);
+    border-radius: 30px;
+    margin: 5%;
+    padding: 1%;
+    text-align: center;
 }
