@@ -123,4 +123,29 @@ img{
     margin-left: 10%;
     border-radius: 5%;
 }
+.videodiv {
+    text-align: center;
+    margin-top: 2%;    
+}
+.video {
+    width: 70vw;
+    height: calc(70vw * 0.5);
+}
 
+@media (max-width: 500px) {
+    html{
+        font-size: 10vw;
+    }
+    .responsive {
+        font-size: 10vw;
+    }
+    .Nubotica {
+        width: 100%; 
+        height: auto;
+        margin-left: 0%;
+
+    }
+    .icono1{
+        width: 60%;
+    }
+}
